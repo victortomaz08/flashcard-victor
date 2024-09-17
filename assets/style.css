@@ -4,3 +4,16 @@ body{
     background-color: rgb(255, 0, 179);
     font-family: Bai Jamjuree;
 }
+footer{
+    background-color: black;
+    color: beige;
+    position: fixed;
+    width: 100%;
+}
+
+footer p{
+    text-align: center;
+    font-size: 0.6rem;
+    height: 2rem;
+    margin: 0.5rem;
+}
