@@ -1,13 +1,13 @@
 criaCartao(
-    'Matemática',
-    'Qual é a resposta da equação (8x-15=3x)',
-    '3'
+    'Historia',
+    'Quem descobriu o brasil?',
+    'Pedro alvez cabral'
 )
 
 criaCartao(
-    'História',
-    'Quando foi a descoberta do Brasil?',
-    '22 de abril de 1500'
+    'Escola',
+    'quem e a diretora da escola',
+    'Sr marilda'
 )
 
 criaCartao(
@@ -17,7 +17,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Lingua espanhola',
+    'Como se diz que te passa manito',
+    'Oque voce tem moleke'
 )
